@@ -1,0 +1,6 @@
+[client]
+database = kitakinanmu
+user = root
+password = Cc@101204
+host = 127.0.0.1
+port = 3306
